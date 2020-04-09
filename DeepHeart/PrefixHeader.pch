@@ -21,8 +21,8 @@
 
 #import <QMUIKit/QMUIKit.h>
 
-//#import "QDCommonUI.h"
-//#import "QDUIHelper.h"
-//#import "QDThemeManager.h"
+#import "DHCommonUI.h"
+#import "DHUIHelper.h"
+#import "DHThemeManager.h"
 
 #endif
