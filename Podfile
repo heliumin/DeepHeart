@@ -7,5 +7,6 @@ target 'DeepHeart' do
 
   # Pods for DeepHeart
   pod 'QMUIKit'   
+  pod 'FreeStreamer'
 
 end

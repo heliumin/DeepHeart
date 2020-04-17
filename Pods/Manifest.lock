@@ -1,4 +1,6 @@
 PODS:
+  - FreeStreamer (4.0.0):
+    - Reachability (~> 3.0)
   - QMUIKit (4.1.1):
     - QMUIKit/QMUIComponents (= 4.1.1)
     - QMUIKit/QMUICore (= 4.1.1)
@@ -302,17 +304,23 @@ PODS:
     - QMUIKit/QMUICore
     - QMUIKit/QMUILog
   - QMUIKit/QMUIWeakObjectContainer (4.1.1)
+  - Reachability (3.2)
 
 DEPENDENCIES:
+  - FreeStreamer
   - QMUIKit
 
 SPEC REPOS:
   trunk:
+    - FreeStreamer
     - QMUIKit
+    - Reachability
 
 SPEC CHECKSUMS:
+  FreeStreamer: 7e9c976045701ac2f7e9c14c17245203c37bf2ea
   QMUIKit: 5a1a39630f404bd34824d0769ffac9531744602c
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
 
-PODFILE CHECKSUM: 1d4f3145ae455b87290b8db69952f11e11cafce9
+PODFILE CHECKSUM: 8425ca06efed3a6a5baff8f472d2dc1ecd3ef4d5
 
 COCOAPODS: 1.8.4
