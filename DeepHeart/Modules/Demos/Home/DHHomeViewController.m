@@ -25,6 +25,8 @@
     [btn setTitle:@"音乐" forState:UIControlStateNormal];
     [self.view addSubview:btn];
     
+    
+    
 }
 
 - (void)btnAction{
